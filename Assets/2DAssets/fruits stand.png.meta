@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 2c25df88fc9fd564689c6fd18b59a55b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fruits stand_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952afe1bfdeb15e44829469f03381bce
+      internalID: 1790281134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e7b52797023a4890d95e7fb0961f0
+      internalID: -1732542728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca035c09fdf39944a93f89decd844a9
+      internalID: -860749209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 3223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377e97020c5dd64a90bbbd2f86df9ea
+      internalID: 451782503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb1e3828defed49a28a5a35163dc9b
+      internalID: -2130288556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 3223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7d1a5c68111d84e9a8db4c3f63c9dd
+      internalID: 400044602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3223
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be1ecd4dec6a3499df01ef9cc3a940
+      internalID: -1494783415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_101
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1589
+        width: 351
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b9a910e5a307d4988bbe41bb6d973a
+      internalID: 276820944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_104
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1910
+        width: 145
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290dfa1a48cb4de43875174a4421dd4e
+      internalID: 1812841813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1448
+        width: 104
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -52, y: -64}
+        - {x: -52, y: 64}
+        - {x: 52, y: 63}
+        - {x: 52, y: -64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4d25881088bbf40a9cb4f1f9566903
+      internalID: -118636426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1403
+        width: 352
+        height: 217
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -176, y: -108.5}
+        - {x: -176, y: 38.5}
+        - {x: 176, y: 38.5}
+        - {x: 176, y: -108.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af89701a0acc8a4da86855cace3dae1
+      internalID: 1837101861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_112
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1059
+        width: 254
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e446ddeeb3e0d9543b2e8e229d78edd5
+      internalID: -1180484789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_113
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1431
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7878e440d7511e4cb00cdc22fa7a718
+      internalID: -1895301784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_141
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 190
+        width: 287
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063ab549b283d66419d01737a6035f1b
+      internalID: 861920684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_0
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1790
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4e657a6aec41e43874eb953ba7ce12
+      internalID: 1415878816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_1
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1801
+        width: 132
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996ff419703abcb44ad6cf9a2f868f15
+      internalID: 653129748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_2
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1656
+        width: 90
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -45, y: -59.5}
+        - {x: -45, y: -28.5}
+        - {x: 45, y: -28.5}
+        - {x: 45, y: -59.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b97d59491c8b84c921fef56355dc67
+      internalID: 62899759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_3
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1696
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81447e39726ce11499f5f67b15e592d5
+      internalID: -896443309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruits stand_4
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1966
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b689ab73674f5040820e9a14aa9d276
+      internalID: -151910149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fruits stand_0: 1415878816
+      fruits stand_1: 653129748
+      fruits stand_10: 1790281134
+      fruits stand_100: 756136747
+      fruits stand_101: 276820944
+      fruits stand_102: 1365758660
+      fruits stand_103: 844166716
+      fruits stand_104: 1812841813
+      fruits stand_105: -118636426
+      fruits stand_106: 91650206
+      fruits stand_107: -673974002
+      fruits stand_108: -1255284393
+      fruits stand_109: 796003857
+      fruits stand_11: -1732542728
+      fruits stand_110: 238820098
+      fruits stand_111: 1837101861
+      fruits stand_112: -1180484789
+      fruits stand_113: -1895301784
+      fruits stand_114: 921391829
+      fruits stand_115: -938339597
+      fruits stand_116: 313697341
+      fruits stand_117: -1052813367
+      fruits stand_118: 1794133993
+      fruits stand_119: 1488659409
+      fruits stand_12: -860749209
+      fruits stand_120: -1903864048
+      fruits stand_121: 683291003
+      fruits stand_122: 1761039958
+      fruits stand_123: -1474783678
+      fruits stand_124: -653484456
+      fruits stand_125: -992468804
+      fruits stand_126: 1663939947
+      fruits stand_127: -581496900
+      fruits stand_128: 71361304
+      fruits stand_129: 223893187
+      fruits stand_13: 451782503
+      fruits stand_130: 356344153
+      fruits stand_131: -1791192740
+      fruits stand_132: 906789530
+      fruits stand_133: -354392203
+      fruits stand_134: 1202955029
+      fruits stand_135: 1615049127
+      fruits stand_136: 765413801
+      fruits stand_137: -95399484
+      fruits stand_138: 1840091205
+      fruits stand_139: -321706689
+      fruits stand_14: -2130288556
+      fruits stand_140: -1617876800
+      fruits stand_141: 861920684
+      fruits stand_15: 400044602
+      fruits stand_16: -1494783415
+      fruits stand_17: 1163757328
+      fruits stand_18: 322201468
+      fruits stand_19: -510812116
+      fruits stand_2: 62899759
+      fruits stand_20: 622353754
+      fruits stand_21: -2036430073
+      fruits stand_22: 251340658
+      fruits stand_23: 823147151
+      fruits stand_24: 1216544237
+      fruits stand_25: 237238468
+      fruits stand_26: 1919970934
+      fruits stand_27: 1393401317
+      fruits stand_28: 1848150872
+      fruits stand_29: -894469031
+      fruits stand_3: -896443309
+      fruits stand_30: 1460755658
+      fruits stand_31: -698193913
+      fruits stand_32: 1586847558
+      fruits stand_33: -1248402465
+      fruits stand_34: 1895278809
+      fruits stand_35: -1992946241
+      fruits stand_36: -1789420689
+      fruits stand_37: -57662130
+      fruits stand_38: 1862188831
+      fruits stand_39: -211988561
+      fruits stand_4: -151910149
+      fruits stand_40: 1047170440
+      fruits stand_41: -1987176383
+      fruits stand_42: -1573768482
+      fruits stand_43: 1362917865
+      fruits stand_44: 2096483303
+      fruits stand_45: 509706424
+      fruits stand_46: -1190869832
+      fruits stand_47: -1083105706
+      fruits stand_48: 1678844387
+      fruits stand_49: -2044514371
+      fruits stand_5: -1893943666
+      fruits stand_50: 554376391
+      fruits stand_51: 1347809156
+      fruits stand_52: -180742294
+      fruits stand_53: 673519408
+      fruits stand_54: -1602710997
+      fruits stand_55: 104870683
+      fruits stand_56: 1991768594
+      fruits stand_57: 479977659
+      fruits stand_58: 1149276642
+      fruits stand_59: -2090519308
+      fruits stand_6: 690098842
+      fruits stand_60: 1568018141
+      fruits stand_61: -117385192
+      fruits stand_62: 876407792
+      fruits stand_63: 507157943
+      fruits stand_64: 106768778
+      fruits stand_65: -480524031
+      fruits stand_66: -1235912722
+      fruits stand_67: 458788216
+      fruits stand_68: 1596009636
+      fruits stand_69: 405364403
+      fruits stand_7: 703553664
+      fruits stand_70: 1733715389
+      fruits stand_71: 2050551628
+      fruits stand_72: -1592028749
+      fruits stand_73: 278590156
+      fruits stand_74: 22694457
+      fruits stand_75: -1632668850
+      fruits stand_76: -31673298
+      fruits stand_77: -1347649229
+      fruits stand_78: 351625121
+      fruits stand_79: 1977915149
+      fruits stand_8: -454360135
+      fruits stand_80: -1914858481
+      fruits stand_81: 109320787
+      fruits stand_82: -2081756708
+      fruits stand_83: 764831382
+      fruits stand_84: -1109172782
+      fruits stand_85: 2006177532
+      fruits stand_86: -163769753
+      fruits stand_87: 818959861
+      fruits stand_88: 792057445
+      fruits stand_89: 1127190950
+      fruits stand_9: 2133451690
+      fruits stand_90: -929427325
+      fruits stand_91: 1207981675
+      fruits stand_92: 751945255
+      fruits stand_93: 1229399625
+      fruits stand_94: 1350334430
+      fruits stand_95: -1442744914
+      fruits stand_96: 704644938
+      fruits stand_97: 1305872241
+      fruits stand_98: -183760601
+      fruits stand_99: 2067322097
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 86da93c2977102a4184be92337c4832e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13badfce53578348bfb8a1f4d423586
+      internalID: -1823240192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149e9e95247ce543a64986c5b0cc5fa
+      internalID: 1202584729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a334b9189408344fb25aa7372ee8a64
+      internalID: -1512193760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 334
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541b126e18c81f84dab96f991e56da33
+      internalID: 369981224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 334
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117a32d4f7c77e49b466ecef28f540b
+      internalID: 906147021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7bf6825348e4459f40d4dd087be51
+      internalID: 909324544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65e063d545afc47838774f69e2985b
+      internalID: -72903537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 334
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45671bb4325ac02408495e7d4299ecb9
+      internalID: -2076293541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 336
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606d6e59313e9f4aaa50154eba7a072
+      internalID: -1030326616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 336
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f8754efaa3b248a41d6a2bacbdab7
+      internalID: 710611308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 277
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7605023c50d0e784ba0e2f0ef29abf8f
+      internalID: 788610310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 276
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f323f293336e469cc97ea1098139b
+      internalID: -1362881043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 276
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f700aa6a9a26da439b2ff5fe8a39a03
+      internalID: -1097141188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 276
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f792327d358d28e4fa9c71bc3bb63688
+      internalID: 1557484144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 277
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0390f653c60e8184ea5df83c90412778
+      internalID: -2017275949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 277
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e1b775fcbf09d4f8131b0bce2e6a77
+      internalID: -1067045075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 277
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4ddfce61a51043836bb07d7f0ad18
+      internalID: 502471216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 278
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1edbb51b17a945903ff4c8403dfc8
+      internalID: -363474971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 276
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f186e7d583cb6643b76d7449fd630a3
+      internalID: -1658978331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 276
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f2b23f049676e4d8382fe230cd677d
+      internalID: -1718634166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 219
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5c3421e2cc6674c805f500fb9a20fa
+      internalID: 1268344095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 219
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb973636232db8488c6f33fa3d81c37
+      internalID: -496181064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 221
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300c2693cf59e4e4fa341743e0ebe986
+      internalID: -1346413570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b848a537fbc5f145bc91de0aa395563
+      internalID: -1122808479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 219
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168433185afb58c4583f00a5a782cb94
+      internalID: -1616587725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 222
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de78c7456e8d684fa606d16e9056d51
+      internalID: -420879272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 219
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b99e95921b11548bfaa55e19aabd69
+      internalID: -428020806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 219
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b78f0becc5830749a07d3463b28b853
+      internalID: 1122181448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 219
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e4ba22b77797c4389d7043514696e6
+      internalID: 1673935886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 219
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38521e4fbc53474a98a8babf83c9c60
+      internalID: -1841742819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 163
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f0f99e9a33f2f4dab7c0625eda7e88
+      internalID: -1252441242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 161
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a94a1579be0b0448c81588f457c170
+      internalID: -906038588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 163
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff3f1a79d20f74da8b031a13dc3d2a
+      internalID: -1621562952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a110d4747c7f7eb489282b8ea7b78b2b
+      internalID: 1456553999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 161
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0ee464c4c06748a9e840576f1bf8c
+      internalID: -444419585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 161
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c3d3aebfda02944875981e0bdf8de5
+      internalID: -1212198887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 161
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb139483344ba944bc92ae4a3b0e445
+      internalID: -44520048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 161
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f00dca74f481aa4d9a7e2cc83c6ca37
+      internalID: -1077353836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 161
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e2fb407be04e84eaca4075b2d9d570
+      internalID: 1748812941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veggie-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 161
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481262dcb64fb894baf6e05d919632fa
+      internalID: 242625025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Veggie-removebg-preview_0: -1823240192
+      Veggie-removebg-preview_1: 1202584729
+      Veggie-removebg-preview_10: 788610310
+      Veggie-removebg-preview_11: -1362881043
+      Veggie-removebg-preview_12: -1097141188
+      Veggie-removebg-preview_13: 1557484144
+      Veggie-removebg-preview_14: -2017275949
+      Veggie-removebg-preview_15: -1067045075
+      Veggie-removebg-preview_16: 502471216
+      Veggie-removebg-preview_17: -363474971
+      Veggie-removebg-preview_18: -1658978331
+      Veggie-removebg-preview_19: -1718634166
+      Veggie-removebg-preview_2: -1512193760
+      Veggie-removebg-preview_20: 1268344095
+      Veggie-removebg-preview_21: -496181064
+      Veggie-removebg-preview_22: -1346413570
+      Veggie-removebg-preview_23: -1122808479
+      Veggie-removebg-preview_24: -1616587725
+      Veggie-removebg-preview_25: -420879272
+      Veggie-removebg-preview_26: -428020806
+      Veggie-removebg-preview_27: 1122181448
+      Veggie-removebg-preview_28: 1673935886
+      Veggie-removebg-preview_29: -1841742819
+      Veggie-removebg-preview_3: 369981224
+      Veggie-removebg-preview_30: -1252441242
+      Veggie-removebg-preview_31: -906038588
+      Veggie-removebg-preview_32: -1621562952
+      Veggie-removebg-preview_33: 1456553999
+      Veggie-removebg-preview_34: -444419585
+      Veggie-removebg-preview_35: -1212198887
+      Veggie-removebg-preview_36: -44520048
+      Veggie-removebg-preview_37: -1077353836
+      Veggie-removebg-preview_38: 1748812941
+      Veggie-removebg-preview_39: 242625025
+      Veggie-removebg-preview_4: 906147021
+      Veggie-removebg-preview_5: 909324544
+      Veggie-removebg-preview_6: -72903537
+      Veggie-removebg-preview_7: -2076293541
+      Veggie-removebg-preview_8: -1030326616
+      Veggie-removebg-preview_9: 710611308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
